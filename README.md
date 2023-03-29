@@ -1,5 +1,24 @@
 ### Hi there! I'm Jonas Santos 👋
 
+<form>
+  <h4>🖖About me</h4>
+  <p>
+    Hi there! My name is [Your Name] and I'm a student currently learning HTML, CSS, and JavaScript. I have a passion for web development and I'm always looking for new challenges and projects to work on.
+
+I recently completed a Python course to learn more about back-end development and I'm excited to apply those skills to my future projects. My goal is to become a full-stack web developer and I'm constantly learning and improving my skills to achieve that.
+
+In my free time, I enjoy experimenting with new technologies and frameworks, as well as contributing to open-source projects. I'm also an active member of the web development community and I'm always seeking to expand my network and collaborate with other developers.
+
+Thank you for checking out my profile and feel free to reach out to me for any questions or opportunities.
+  </p>
+  
+  <h4>⚡Technologies & Skills</h4>
+  <ul>
+    <li>Front-End development using HTML, CSS, JavaScript for while.</li>
+    <li>Back-end development using Python</li>
+  </ul>
+ </form>
+
 - 🔭 I’m Jobless
 - 🌱 I’m currently learning HTML/CSS/JS
 

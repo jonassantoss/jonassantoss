@@ -3,7 +3,7 @@
 <form>
   <h4>🖖About me</h4>
   <p>
-    Hi there! My name is [Your Name] and I'm a student currently learning HTML, CSS, and JavaScript. I have a passion for web development and I'm always looking for new challenges and projects to work on.
+    Hi there! My name is Jonas Santos and I'm a student currently learning HTML, CSS, and JavaScript. I have a passion for web development and I'm always looking for new challenges and projects to work on.
 
 I recently completed a Python course to learn more about back-end development and I'm excited to apply those skills to my future projects. My goal is to become a full-stack web developer and I'm constantly learning and improving my skills to achieve that.
 

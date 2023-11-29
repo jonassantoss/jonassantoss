@@ -15,7 +15,7 @@ Thank you for checking out my profile and feel free to reach out to me for any q
   <h4>⚡Technologies & Skills</h4>
   <ul>
     <li>Front-End development using HTML, CSS, JavaScript for while.</li>
-    <li>Back-end development using Python</li>
+    <li>Back-end development using Python and C</li>
   </ul>
  </form>
 

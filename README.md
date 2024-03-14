@@ -1,21 +1,22 @@
-### Hi there! I'm Jonas Santos 👋
+### Olá! Eu sou o Jonas Soares 👋
 
 <form>
-  <h4>🖖About me</h4>
+  <h4>🖖Sobre mim</h4>
   <p>
-I'm a student currently learning HTML, CSS, and JavaScript. I have a passion for web development and I'm always looking for new challenges and projects to work on.
+Em busca da minha primeira experiência profissional e emprego, de forma a desenvolver e evoluir habilidades técnicas e pessoais.
 
-I recently completed a Python course to learn more about back-end development and I'm excited to apply those skills to my future projects. My goal is to become a full-stack web developer and I'm constantly learning and improving my skills to achieve that.
-
-In my free time, I enjoy experimenting with new technologies and frameworks, as well as contributing to open-source projects. I'm also an active member of the web development community and I'm always seeking to expand my network and collaborate with other developers.
-
-Thank you for checking out my profile and feel free to reach out to me for any questions or opportunities.
+Atualmente sou um estudante com o objetivo de se tornar um desenvolvedor FullStack, com afinidade para HTML, CSS e JavaScrupt. Constantemente aprendendo e aprimorando minhas habilidades para atingir esse objetivo.
   </p>
   
-  <h4>⚡Technologies & Skills</h4>
+  <h4>⚡Habilidades</h4>
   <ul>
-    <li>Front-End development using HTML, CSS, JavaScript for while.</li>
-    <li>Back-end development using Python and C</li>
+    <li>Desenvolvimento front-end utilizando HTML, CSS, JavaScript</li>
+    <li>Desenvolvimento back-end utilizando Python e C</li>
+    <li>Pacote Office avançado</li>
+    <li>Inglês intermediário</li>
+    <li>Comunicação Escrita e Verbal</li>
+    <li>Agilidade ao solucionar problemas</li>
+    <li>Relacionamento Interpessoal</li>
   </ul>
  </form>
 

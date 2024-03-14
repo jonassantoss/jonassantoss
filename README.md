@@ -1,11 +1,13 @@
-### Olá! Eu sou o Jonas Soares 👋
+### Olá! Eu sou o Jonas Santos, estudante em Análise e Desenvolvimento de Sistemas! 👋
 
 <form>
   <h4>🖖Sobre mim</h4>
   <p>
-Em busca da minha primeira experiência profissional e emprego, de forma a desenvolver e evoluir habilidades técnicas e pessoais.
+Atualmente, estudando Análise e Desenvolvimento de Sistemas na FATEC e cursos extras na área de desenvolvimento de software com o objetivo de se tornar um desenvolvedor FullStack. 
 
-Atualmente sou um estudante com o objetivo de se tornar um desenvolvedor FullStack, com afinidade para HTML, CSS e JavaScrupt. Constantemente aprendendo e aprimorando minhas habilidades para atingir esse objetivo.
+Possuindo afinidade para HTML, CSS, JavaScript, Python e C. Constantemente aprendendo e aprimorando minhas habilidades para atingir esse objetivo.
+
+Em busca da minha primeira experiência profissional e oportunidades de estágio, de forma a desenvolver e evoluir habilidades técnicas e pessoais.
   </p>
   
   <h4>⚡Habilidades</h4>

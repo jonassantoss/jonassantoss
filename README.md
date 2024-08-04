@@ -1,26 +1,25 @@
-### Olá! Eu sou o Jonas Santos, estudante em Análise e Desenvolvimento de Sistemas! 👋
+# Olá, eu sou o Jonas Santos 👋!
 
-<form>
-  <h4>🖖Sobre mim</h4>
-  <p>
-Atualmente, estudando Análise e Desenvolvimento de Sistemas na FATEC e cursos extras na área de desenvolvimento de software com o objetivo de se tornar um desenvolvedor FullStack. 
+## 🖖Sobre mim</h4>
+
+Estudante de Análise e Desenvolvimento de Sistemas, tenho interesse em desenvolvimento de software e estou constantemente aprendendo novas tecnologias e aprimorando minhas habilidades.
 
 Possuindo afinidade para HTML, CSS, JavaScript, Python e C. Constantemente aprendendo e aprimorando minhas habilidades para atingir esse objetivo.
 
-Em busca da minha primeira experiência profissional e oportunidades de estágio, de forma a desenvolver e evoluir habilidades técnicas e pessoais.
-  </p>
+Em busca da minha primeira oportunidade profissional de estágio, de forma a aplicar meus conhecimentos e desenvolver minha experiência profissional.
   
-  <h4>⚡Habilidades</h4>
-  <ul>
-    <li>Desenvolvimento front-end utilizando HTML, CSS, JavaScript</li>
-    <li>Desenvolvimento back-end utilizando Python e C</li>
-    <li>Pacote Office avançado</li>
-    <li>Inglês intermediário</li>
-    <li>Comunicação Escrita e Verbal</li>
-    <li>Agilidade ao solucionar problemas</li>
-    <li>Relacionamento Interpessoal</li>
-  </ul>
- </form>
+## ⚡Habilidades
+### Habilidades Técnicas
+- Desenvolvimento front-end utilizando HTML, CSS, JavaScript
+- Desenvolvimento back-end utilizando Python e C
+### Habilidades Interpessoais
+- Pacote Office avançado
+- Comunicação Escrita e Verbal
+- Agilidade ao solucionar problemas
+- Relacionamento Interpessoal
+### Idiomas
+- Português: Nativo
+- Inglês: Intermediário
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

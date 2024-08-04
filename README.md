@@ -6,7 +6,7 @@ Estudante de Análise e Desenvolvimento de Sistemas, tenho interesse em desenvol
 
 Possuindo afinidade para HTML, CSS, JavaScript, Python e C. Constantemente aprendendo e aprimorando minhas habilidades para atingir esse objetivo.
 
-![Linguagens mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jonassantoss&layout=compact&theme=radical)
+![Linguagens mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jonassantoss&layout=compact&theme=nord)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

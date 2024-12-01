@@ -1,25 +1,63 @@
-# Olá, eu sou o Jonas Santos 👋!
+# 👋 Sobre Mim
 
-## 🖖Sobre mim</h4>
+- 🖖 Olá, pode me chamar de **Jonas Santos**.  
+- 📖 Sou estudante de **Análise e Desenvolvimento de Sistemas**.  
+- 🏃‍♂️ Atualmente, estou em busca da minha primeira oportunidade profissional na área de **TI**.  
+- 📄 **Currículo**: [Clique aqui para download](https://github.com/jonassantoss/jonassantoss/blob/main/Curriculo.pdf).  
+- ✉️ **Email**: [jonassoares.live@gmail.com](mailto:jonassoares.live@gmail.com).  
+- 📲 **Telefone**: +55 (19) 97105-9751.  
+- 📥 **LinkedIn**: [www.linkedin.com/in/jonassant0s](https://www.linkedin.com/in/jonassant0s/).
 
-Estudante de Análise e Desenvolvimento de Sistemas, tenho interesse em desenvolvimento de software e estou constantemente aprendendo novas tecnologias e aprimorando minhas habilidades.
+---
 
-Possuindo afinidade para HTML, CSS, JavaScript, Python e C. Constantemente aprendendo e aprimorando minhas habilidades para atingir esse objetivo.
+## 🌐 Social
 
-![Linguagens mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jonassantoss&layout=compact&theme=nord)
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-</div>
-  
-  ##
- 
 <div> 
-  <a href="https://instagram.com/jonass.sant0s" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jonassant0s/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 
+  <a href="https://instagram.com/jonass.sant0s" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.linkedin.com/in/jonassant0s/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
+
+---
+
+## 🛠 Tecnologias
+
+### ⚙️ Ferramentas  
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+</div>
+
+### 💻 Linguagens  
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+</div>
+
+### 🎨 Front-End  
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="TailwindCSS" />
+</div>
+
+### 🔧 Back-End  
+<div>
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="Node.js" />
+</div>
+
+---
+
+## 📊 Status  
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jonassantoss&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=pt-br&hide_border=false&order=1" height="150" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jonassantoss&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="Linguagens Mais Usadas" />
 </div>

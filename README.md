@@ -1,40 +1,35 @@
-# 👋 Sobre Mim
+# 👋 About me
 
-- 🖖 Olá, pode me chamar de **Jonas Santos**.  
-- 📖 Sou estudante de **Análise e Desenvolvimento de Sistemas**.  
-- 🏃‍♂️ Atualmente, estou em busca da minha primeira oportunidade profissional na área de **TI**.  
-- 📄 **Currículo**: [Clique aqui para download](https://github.com/jonassantoss/jonassantoss/blob/main/Curriculo.pdf).  
+- 🖖 Hi, my name is **Jonas Santos**.  
+- 📖 I'm an **Analysis and Development of Systems** student.  
+- 🏃‍♂️ Actually, I'm in an internship as a developer at Infonacci.  
+- 📄 **CV**: [Click here for download](https://github.com/jonassantoss/jonassantoss/blob/main/Curriculo.pdf).  
 - ✉️ **Email**: [jonassoares.live@gmail.com](mailto:jonassoares.live@gmail.com).  
 - 📲 **Telefone**: +55 (19) 97105-9751.  
 - 📥 **LinkedIn**: [www.linkedin.com/in/jonassant0s](https://www.linkedin.com/in/jonassant0s/).
 
 ---
 
-## 🌐 Social
+## 🛠 Technologies
 
-<div> 
-  <a href="https://instagram.com/jonass.sant0s" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://www.linkedin.com/in/jonassant0s/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</div>
-
----
-
-## 🛠 Tecnologias
-
-### ⚙️ Ferramentas  
+### ⚙️ Tools  
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="SQLite" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="AWS" />
 </div>
 
-### 💻 Linguagens  
+### 💻 Languages  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -43,18 +38,29 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
 </div>
 
 ### 🎨 Front-End  
 <div>
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="TailwindCSS" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="AngularJS" />
+  
 </div>
 
 ### 🔧 Back-End  
 <div>
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="Node.js" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express.js" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nest" height="40" alt="Nest JS" />
 </div>
 
 ---
@@ -62,6 +68,6 @@
 ## 📊 Status  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jonassantoss&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=pt-br&hide_border=false&order=1" height="150" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jonassantoss&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="Linguagens Mais Usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jonassantoss&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="150" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jonassantoss&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="Linguagens Mais Usadas" />
 </div>

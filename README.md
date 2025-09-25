@@ -3,7 +3,7 @@
 - 🖖 Hi, my name is **Jonas Santos**.  
 - 📖 I'm an **Analysis and Development of Systems** student.  
 - 🏃‍♂️ Actually, I'm in an internship as a developer at Infonacci.  
-- 📄 **CV**: [Click here for download](https://github.com/jonassantoss/jonassantoss/blob/main/Curriculo.pdf).  
+- 📄 **CV**: [Click here for download](https://github.com/jonassantoss/jonassantoss/blob/main/CV.pdf).  
 - ✉️ **Email**: [jonassoares.live@gmail.com](mailto:jonassoares.live@gmail.com).  
 - 📲 **Telefone**: +55 (19) 97105-9751.  
 - 📥 **LinkedIn**: [www.linkedin.com/in/jonassant0s](https://www.linkedin.com/in/jonassant0s/).

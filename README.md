@@ -1,6 +1,6 @@
 # 👋 About me
 
-- 🖖 Hi, my name is **Jonas Santos**.  
+- 🖖 Hi, my name is **Jonas Soares**.  
 - 📖 I'm an **Analysis and Development of Systems** student.  
 - 🏃‍♂️ Actually, I'm in an internship as a developer at Infonacci.  
 - 📄 **CV**: [Click here for download](https://github.com/jonassantoss/jonassantoss/blob/main/CV.pdf).  
